@@ -1,4 +1,3 @@
-
 var white,black,red,green,blue;
 var currentColor;
 
