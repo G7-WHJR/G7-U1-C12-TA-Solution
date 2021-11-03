@@ -1,4 +1,4 @@
-var white,black,red,green,blue;
+var white,black,red;
 
 function setup() {
   //size of the canvas to draw on
@@ -19,10 +19,6 @@ function draw() {
   black.appear();
   red = new ColorBox(0, 150, 50, 50, "red");
   red.appear();
-  green = new ColorBox(0, 200, 50, 50, "green");
-  green.appear();
-  blue = new ColorBox(0, 250, 50, 50, "blue");
-  blue.appear();
     
 }
 
