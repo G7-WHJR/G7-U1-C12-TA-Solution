@@ -1,5 +1,4 @@
 var white,black,red,green,blue;
-var currentColor;
 
 function setup() {
   //size of the canvas to draw on
