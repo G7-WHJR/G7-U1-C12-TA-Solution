@@ -1,4 +1,4 @@
-var white,black,red;
+var white,black;
 
 function setup() {
   //size of the canvas to draw on
@@ -17,8 +17,6 @@ function draw() {
   white.appear();
   black = new ColorBox(0, 100, 50, 50, "black");
   black.appear();
-  red = new ColorBox(0, 150, 50, 50, "red");
-  red.appear();
     
 }
 
